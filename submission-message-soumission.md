@@ -12,7 +12,7 @@ The URL of your live GitHub Pages site. L'URL de la version en ligne de votre si
 
 ##CSS:
 
-1. à  J'ai changé les couleurs
+1. à 12. J'ai changé les couleurs
 13.
 14.
 15.

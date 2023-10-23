@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
-    color: #ffffff;
+    color: #b2ef0a;
 }
 
 body {
@@ -45,7 +45,7 @@ body {
 }
 
 .top-menu li a:link, .top-menu li a:visited {
-    color: rgb(186, 245, 234);
+    color: rgb(115, 216, 198);
     text-decoration: none;
     padding: 20px 20px 20.5px 20px;
 }
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(122, 196, 205);
+    background-color: rgb(197, 241, 251);
     z-index: 1;
 }
 
@@ -94,10 +94,10 @@ body {
 
 .footer-content {
     padding: 5px 5px 5px 20px;
-    color: rgb(255, 255, 255);
+    color: rgb(239, 120, 245);
 }
 
 .footer-content a:link {
-    color: white;
+    color: rgb(57, 196, 234);
     text-decoration: none;
 }
