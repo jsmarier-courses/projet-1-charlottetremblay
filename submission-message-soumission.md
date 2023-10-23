@@ -5,7 +5,7 @@
 Charlotte Tremblay
 
 ##GitHub Pages:
-
+https://charlottetremblay.github.io/projet-1-charlottetremblay/
 The URL of your live GitHub Pages site. L'URL de la version en ligne de votre site sur GitHub Pages.
 
 
