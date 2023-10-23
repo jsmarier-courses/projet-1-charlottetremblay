@@ -42,7 +42,7 @@ body {
 
 .top-menu li {
     display: inline-block;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .top-menu li a:link, .top-menu li a:visited {
