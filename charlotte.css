@@ -2,11 +2,11 @@ html, body {
     margin: 0;
     padding: 0px 0px 0px 0px;
     font-family: 'Roboto', sans-serif;
-    color: #b2ef0a;
+    color: #ecc1e7;
 }
 
 body {
-    background-color: rgb(224, 224, 224);
+    background-color: rgb(246, 204, 227);
 }
 
 .top-bar {
@@ -64,7 +64,7 @@ body {
     max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(197, 241, 251);
+    background-color: rgb(9, 163, 172);
     z-index: 1;
 }
 
