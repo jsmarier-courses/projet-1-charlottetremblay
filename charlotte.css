@@ -17,7 +17,7 @@ body {
 }
 
 .logo {
-   font-size: 30px;
+   font-size: 60px;
    position: absolute;
    padding: 0px 0px 0px 20px;
    z-index: 3;
@@ -28,20 +28,21 @@ body {
 .top-menu {
    background-color: #644bf1;
    position: absolute;
-   top: 85px;
+   top: 55px;
    z-index: 2;
    width: 100%;
 }
 
 .top-menu ul {
     list-style-type: none;
-    font-size: 20px; 
+    font-size: 30px; 
     float: right;
     margin-right: 20px;
 }
 
 .top-menu li {
     display: inline-block;
+    font-size: 40px;
 }
 
 .top-menu li a:link, .top-menu li a:visited {
@@ -74,6 +75,7 @@ body {
 
 .main-section h1, .main-section h2 {
  color: #644bf1;
+ font-size: 45px;
 }
 
 .main-section figure, .main-section img {
@@ -81,6 +83,18 @@ body {
     margin: auto;
     width: 800px;
 }
+
+p {
+    font-size: 20px;
+  }
+  
+  li {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 30px;
+  }
 
 .footer {
     position: relative;
